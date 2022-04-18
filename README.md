@@ -17,6 +17,5 @@ In this simple challenge I just created a 3-column card component. I only used H
 ![](./images/screenshot2.PNG)
 
 
-- Live Site URL: [3-column preview card component by Rodrigo](https://your-live-site-url.com)
+- Live Site URL: [3-column preview card component by Rodrigo](https://r-mayer.github.io/3-column-preview-card-component/)
 
-**Have fun building!** 🚀
