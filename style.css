@@ -9,6 +9,9 @@
     --very-light-gray: hsl(0, 0%, 95%);
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 * {
     margin: 0;
@@ -116,13 +119,14 @@ h1 {
 
 @media screen and (max-width: 915px) {
     .sedan {
-        border-radius: 1rem 0 0 1rem;
+        border-radius: 1rem 0 0 0;
     }
     .suv {
-        border-radius: 0 1rem 1rem 0;
+        border-radius: 0 1rem 0 0;
     }
     .luxury {
         border-radius: 0 0 1rem 1rem;
+        width: 610px;
     }
 }
 
@@ -135,5 +139,6 @@ h1 {
     }
     .luxury {
         border-radius: 0 0 1rem 1rem;
+        width: 305px;
     }
 }
