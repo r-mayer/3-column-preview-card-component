@@ -1,4 +1,4 @@
-On my road to become a Front End Developer  🚀
+🚀 On the way to becoming a front-end developer  🚀
 
 # 3-column preview card component solution
 
